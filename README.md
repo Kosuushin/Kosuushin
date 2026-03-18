@@ -1,12 +1,11 @@
 # ![AyameWave](https://cdn.discordapp.com/emojis/814309696533299230.webp?size=96&animated=true) Hiya, I'm Kosuu. 
 ## I do game (modding) and AI stuff!
 ### Coding env(s) and general stuff:
-1. PC: (Hybrid) Windows, [Arch](https://archlinux.org/download/)
-2. Arch WM: [hyprland](https://hyprland.org)
-3. Laptop: MacOS
-4. Main Languages: Python / C++
-5.  Game I'm currently modding: Sonic Unleashed [(Unleashed Recompiled)](https://github.com/hedge-dev/UnleashedRecomp)
-6.  Favourite project: Sage (AI, Website coming (maybe))
+1. PC: (Hybrid) Windows, [Nobara](https://nobaraproject.org)
+2. Laptop: MacOS
+3. Main Languages: Python / C++
+4.  Game I'm currently modding: Sonic Unleashed [(Unleashed Recompiled)](https://github.com/hedge-dev/UnleashedRecomp)
+5.  Favourite project: Amadeus (AI inspired from Steins;Gate 0, Website coming (maybe))
 #### Do I exist?
 No! (Mostly because everything is private, BUT I've lost an account before as well.)
 
