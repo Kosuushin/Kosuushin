@@ -1,7 +1,7 @@
 # ![AyameWave](https://cdn.discordapp.com/emojis/814309696533299230.webp?size=96&animated=true) Hiya, I'm Kosuu. 
 ## I do game (modding) and AI stuff!
 ### Coding env(s) and general stuff:
-1. PC: (Hybrid) Windows, [Nobara](https://nobaraproject.org)
+1. PC: (Hybrid) Windows, [Pop!_OS](https://system76.com/pop)
 2. Laptop: MacOS
 3. Main Languages: Python / C++
 4.  Game I'm currently modding: Sonic Unleashed [(Unleashed Recompiled)](https://github.com/hedge-dev/UnleashedRecomp)
