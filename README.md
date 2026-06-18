@@ -5,7 +5,8 @@
 2. Laptop: MacOS
 3. Main Languages: Python / C++
 4.  Game I'm currently modding: Sonic Unleashed [(Unleashed Recompiled)](https://github.com/hedge-dev/UnleashedRecomp)
-5.  Favourite project: Amadeus (AI inspired from Steins;Gate 0, Website coming (maybe))
+5.  Game I'm currently demaking: Sonic Unleashed
+6.  Favourite project: Amadeus (AI inspired from Steins;Gate 0, Website coming (maybe))
 #### Do I exist?
 No! (Mostly because everything is private, BUT I've lost an account before as well.)
 
